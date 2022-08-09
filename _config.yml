@@ -1,5 +1,2 @@
 theme: jekyll-theme-slate
-deploy:
-  type: git
-  repo: git@github.com:Mioioioio/mioioioio.github.io
-  branch: master
+
