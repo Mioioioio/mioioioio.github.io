@@ -1,7 +1,7 @@
 window.Config = {
 
   // 显示标题
-  SiteName: '状态 / Status',
+  SiteName: '御庭监控室(￣▽￣)"',
 
   // UptimeRobot Api Keys
   // 支持 Monitor-Specific 和 Read-Only
